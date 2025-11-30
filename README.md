@@ -58,6 +58,7 @@ Defines the schema with key attributes: `category`, `name`, `mrp`, `discountPerc
 ## 🧮 Tools Used
 - **SQL** (PostgreSQL / MySQL compatible)
 - **CSV Data Handling** via DBeaver, pgAdmin, or SQL CLI tools
+- **PowwerBi** for dashboard vreation and analysis
 
 ---
 
