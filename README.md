@@ -67,3 +67,6 @@ Defines the schema with key attributes: `category`, `name`, `mrp`, `discountPerc
 - High-MRP items (> ₹500) are often out of stock.
 - **Personal Care** and **Dairy** contribute heavily to total revenue.
 - Most SKUs fall into the **Medium-weight** range (1–5 kg), indicating popular packaging preferences.
+
+## PowerBi Dashboard
+<img width="904" height="504" alt="Screenshot 2025-11-30 163556" src="https://github.com/user-attachments/assets/e519402d-e9a4-45e0-8248-38ee9374c6ae" />
